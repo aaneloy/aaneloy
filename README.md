@@ -1,4 +1,8 @@
-### Hi there 👋
+# Asif Ahmed Neloy
+
+I am an **Information Analyst** at the [Advanced Chemical Industries (ACI) Limited](http://www.aci-bd.com/) and part-time **Lab Instructor** at the [Dept of ECE](http://ece.northsouth.edu/), North South University.
+
+
 
 <!--
 **NeloyNSU/NeloyNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
