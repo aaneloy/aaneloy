@@ -6,10 +6,11 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aaneloy/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/aaneloy)
 
+<p align="justify">
 I am an **Information Analyst** at the [Advanced Chemical Industries (ACI) Limited](http://www.aci-bd.com/) and part-time **Lab Instructor** at the [Dept of ECE](http://ece.northsouth.edu/), North South University.
 
-
 My primary field of research interest is **Artificial Intelligence (AI)**. Within AI, I am interested in problems related to **Probabilistic Modeling**, **Applied Machine Learning**, **Health Data Mining**, and interdisciplinary applications of **Computer Vision** in **Robotics**.
+</p>
 
 ## External Websites
 * [Personal Website](https://aaneloy.netlify.app/)
