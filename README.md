@@ -11,10 +11,10 @@ I am an **Information Analyst** at the [Advanced Chemical Industries (ACI) Limit
 
 My primary field of research interest is **Artificial Intelligence (AI)**. Within AI, I am interested in problems related to **Probabilistic Modeling**, **Applied Machine Learning**, **Health Data Mining**, and interdisciplinary applications of **Computer Vision** in **Robotics**.
 
-## External Websites:
-# [Personal Website](https://aaneloy.netlify.app/)
-# [ResearchGate](https://www.researchgate.net/profile/Asif_Neloy)
-# [Google Scholar](https://scholar.google.com/citations?user=WjL1EDcAAAAJ&hl=en)
+## External Websites
+* [Personal Website](https://aaneloy.netlify.app/)
+* [ResearchGate](https://www.researchgate.net/profile/Asif_Neloy)
+* [Google Scholar](https://scholar.google.com/citations?user=WjL1EDcAAAAJ&hl=en)
 
 
 
