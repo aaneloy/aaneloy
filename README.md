@@ -8,6 +8,11 @@
 
 I am an **Information Analyst** at the [Advanced Chemical Industries (ACI) Limited](http://www.aci-bd.com/) and part-time **Lab Instructor** at the [Dept of ECE](http://ece.northsouth.edu/), North South University.
 
+## External Websites:
+[Personal Website](https://aaneloy.netlify.app/)
+[ResearchGate](https://www.researchgate.net/profile/Asif_Neloy)
+[Google Scholar](https://scholar.google.com/citations?user=WjL1EDcAAAAJ&hl=en)
+
 
 My primary field of research interest is **Artificial Intelligence (AI)**. Within AI, I am interested in problems related to **Probabilistic Modeling**, **Applied Machine Learning**, **Health Data Mining**, and interdisciplinary applications of **Computer Vision** in **Robotics**.
 
