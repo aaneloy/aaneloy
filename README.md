@@ -1,4 +1,4 @@
-<a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://github.com/NeloyNSU/NeloyNSU/blob/master/Images/1.jpg"></a>
+<a target="_blank" href="https://shunjid.github.io"><img height = "350" width="350" align="right" src="https://github.com/NeloyNSU/NeloyNSU/blob/master/Images/1.jpg"></a>
 
 # Asif Ahmed Neloy
 
