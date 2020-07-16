@@ -9,6 +9,8 @@
 I am an **Information Analyst** at the [Advanced Chemical Industries (ACI) Limited](http://www.aci-bd.com/) and part-time **Lab Instructor** at the [Dept of ECE](http://ece.northsouth.edu/), North South University.
 
 
+My primary field of research interest is **Artificial Intelligence (AI)**. Within AI, I am interested in problems related to **Probabilistic Modeling**, **Applied Machine Learning**, **Health Data Mining**, and interdisciplinary applications of **Computer Vision** in **Robotics**.
+
 
 
 
