@@ -20,6 +20,7 @@ My primary field of research interest is <b>Artificial Intelligence (AI)</b>. Wi
 * [Personal Website](https://aaneloy.netlify.app/)
 * [ResearchGate](https://www.researchgate.net/profile/Asif_Neloy)
 * [Google Scholar](https://scholar.google.com/citations?user=WjL1EDcAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/aaneloy/)
 
 
 
