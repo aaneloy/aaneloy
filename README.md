@@ -4,7 +4,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:asif.neloy@northsouth.edu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aaneloy/)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/aaneloy)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaneloy/)
 
 <p1 align="justify">
 I am an <b>Information Analyst</b> at the <a href="http://www.aci-bd.com/" target="_blank">Advanced Chemical Industries (ACI) Limited</a> and part-time <b>Lab Instructor</b> at the <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, North South University.
@@ -25,7 +25,8 @@ My primary field of research interest is <b>Artificial Intelligence (AI)</b>. Wi
 
 
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=aaneloy&show_icons=true&hide_border=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=NeloyNSU&show_icons=true&hide_border=true)
+![Neloy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaneloy&hide=jupyter%20notebook,html&layout=compact&hide_border=true)
 <!--
 **NeloyNSU/NeloyNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
