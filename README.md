@@ -25,7 +25,7 @@ My primary field of research interest is <b>Artificial Intelligence (AI)</b>. Wi
 
 
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=NeloyNSU&show_icons=true&hide_border=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=aaneloy&show_icons=true&hide_border=true)
 ![Neloy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaneloy&hide=jupyter%20notebook,html&layout=compact&hide_border=true)
 <!--
 **NeloyNSU/NeloyNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
