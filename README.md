@@ -1,4 +1,4 @@
-<a target="_blank" href="https://aaneloy.netlify.app"><img height = "240" width="350" align="right" src="https://github.com/aaneloy/aaneloy/blob/master/Images/1.jpg"></a>
+<a target="_blank" href="https://aaneloy.netlify.app"><img height = "340" width="350" align="right" src="https://github.com/aaneloy/aaneloy/blob/master/Images/1.jpg"></a>
 
 # Asif Ahmed Neloy
 
