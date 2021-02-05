@@ -2,15 +2,14 @@
 
 # Asif Ahmed Neloy
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:asif.neloy@northsouth.edu)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:neloyn@myumanitoba.ca)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aaneloy/)
 
 <p1 align="justify">
-I am an <b>Information Analyst</b> at the <a href="http://www.aci-bd.com/" target="_blank">Advanced Chemical Industries (ACI) Limited</a> and part-time <b>Lab Instructor</b> at the <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, North South University.
-</p1>
+Asif Ahmed Neloy is currently enrolled as a first-year MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is working as a <b>Graduate Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>.
 
 <p align="justify">
-My primary field of research interest is <b>Artificial Intelligence (AI)</b>. Within AI, I am interested in problems related to <b>Probabilistic Modeling</b>, <b>Applied Machine Learning</b>, <b>Health Data Mining</b>, and interdisciplinary applications of <b>Computer Vision</b> in <b>Robotics</b>.
+My primary field of research interest is <b>Statistical Data Science</b>. Within Data Science, I am interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>predictive modeling</b> and <b>visualization</b>.
 
 </p>
 
