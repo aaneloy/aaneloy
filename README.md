@@ -7,6 +7,9 @@
 
 <p1 align="justify">
 Asif Ahmed Neloy is currently enrolled as a first-year MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is working as a <b>Graduate Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>.
+</p1>
+
+</br>
 
 <p align="justify">
 My primary field of research interest is <b>Statistical Data Science</b>. Within Data Science, I am interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>predictive modeling</b> and <b>visualization</b>.
