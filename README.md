@@ -6,7 +6,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aaneloy/)
 ![Profile views](https://gpvc.arturio.dev/aaneloy)
 
-<p style="text-align:justify;"> Asif Ahmed Neloy is currently enrolled as an MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is serving as a <b>Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>, <b>Teaching Assistant</b> at the <b>Dept of Statistics, UofM</b> and also as a <b>Marker</b> at the Computer Science Department of the UofM.<br/>
+<p style="text-align:justify;"> Asif Ahmed Neloy is currently enrolled as an MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is serving as a <b>Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>, <b>Teaching Assistant</b> at the <b>Dept of Statistics, UofM</b> and also as a <b>Marker</b> at the Computer Science Department of the UofM.<br/> </p>
 
 </br>
 
