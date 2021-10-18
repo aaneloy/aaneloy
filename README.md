@@ -6,14 +6,12 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aaneloy/)
 ![Profile views](https://gpvc.arturio.dev/aaneloy)
 
-<p align="justify">
-Asif Ahmed Neloy is currently enrolled as a first-year MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is working as a <b>Graduate Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>.
-</p>
+<p style="text-align:justify;"> Asif Ahmed Neloy is currently enrolled as an MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is serving as a <b>Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>, <b>Teaching Assistant</b> at the <b>Dept of Statistics, UofM</b> and also as a <b>Marker</b> at the Computer Science Department of the UofM.<br/>
 
 </br>
 
 <p align="justify">
-My primary field of research interest is <b>Statistical Data Science</b>. Within Data Science, I am interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>predictive modeling</b> and <b>visualization</b>.
+My primary field of research interest is <b>Statistical Machine Learning</b>. Within ML, I am interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>Unsupervised Machine Learning</b> and <b>Bayesian Modeling</b>.
 
 </p>
 
@@ -47,18 +45,5 @@ My primary field of research interest is <b>Statistical Data Science</b>. Within
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=aaneloy&show_icons=true&hide_border=true)
 ![Neloy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaneloy&layout=compact&hide_border=true)
-<!--
-**NeloyNSU/NeloyNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
