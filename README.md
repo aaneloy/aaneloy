@@ -11,7 +11,7 @@
 </br>
 
 <p align="justify">
-My primary field of research interest is <b>Statistical Machine Learning</b>. Within ML, I am interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>Unsupervised Machine Learning</b> and <b>Bayesian Modeling</b>.
+His primary field of research interest is <b>Statistical Machine Learning</b>. Within ML, Asif is interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>Unsupervised Machine Learning</b> and <b>Bayesian Modeling</b>.
 
 </p>
 
