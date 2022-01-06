@@ -5,9 +5,11 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:neloyn@myumanitoba.ca)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aaneloy/)
 <img src="https://komarev.com/ghpvc/?username=aaneloy" alt="aaneloy"/>
-<!---![Profile views](https://gpvc.arturio.dev/aaneloy)-->
 
-<p style="text-align:justify;"> Asif Ahmed Neloy is an MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. Currently, Asif is serving as a <b>Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>, <b>Teaching Assistant</b> at the <b>Dept of Statistics, UofM</b> and also as a <b>Marker</b> at the Computer Science Department of the UofM.<br/> </p>
+<p style="text-align:justify;"> 
+Asif Ahmed Neloy is an MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. Currently, Asif is serving as a <b>Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>, <b>Teaching Assistant</b> at the <b>Dept of Statistics, UofM</b> and also as a <b>Marker</b> at the Computer Science Department of the UofM.
+<br/> 
+</p>
 
 <p align="justify">
 His primary field of research interest is <b>Statistical Machine Learning</b>. Within ML, Asif is interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>Unsupervised Machine Learning</b> and <b>Bayesian Modeling</b>.
