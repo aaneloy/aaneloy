@@ -36,7 +36,7 @@ His primary field of research interest is <b>Statistical Machine Learning</b>. W
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code>
 
 ## External Websites
-* [Personal Website](https://bit.ly/3eUR4sF)
+* [Personal Website](https://bit.ly/3IaObRe)
 * [ResearchGate](http://bit.ly/2qrgpVc)
 * [Google Scholar](http://bit.ly/2Uab0wq)
 * [LinkedIn](https://bit.ly/33355ll)
