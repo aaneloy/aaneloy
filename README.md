@@ -43,6 +43,7 @@ His primary field of research interest is <b>Statistical Machine Learning</b>. W
 
 ## Python Packages
 * [Data Scaler Selector](https://github.com/aaneloy/scaler_selector)
+* [Image to Sketch](https://github.com/aaneloy/Image_to_sketch)
 * [Data Preparer](https://github.com/aaneloy/DataPrep)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=aaneloy&show_icons=true&hide_border=true)
