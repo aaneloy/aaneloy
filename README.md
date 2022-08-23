@@ -60,11 +60,11 @@ His primary field of research interest is <b>Statistical Analysis and Machine Le
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaneloy&show_icons=true&locale=en&layout=compact" alt="aaneloy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaneloy&show_icons=true&locale=en" alt="aaneloy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaneloy&" alt="aaneloy" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaneloy&show_icons=true&locale=en&layout=compact" alt="aaneloy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaneloy&show_icons=true&locale=en" alt="aaneloy" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaneloy&" alt="aaneloy" />
+</p>
 
 
 
