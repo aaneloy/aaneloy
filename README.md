@@ -7,12 +7,17 @@
 <img src="https://komarev.com/ghpvc/?username=aaneloy" alt="aaneloy"/>
 
 <p style="text-align:justify;"> 
-Asif Ahmed Neloy is an MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. Currently, Asif is serving as a <b>Graduate Student</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>, <b>Teaching Assistant</b> at the <b>Dept of Statistics, UofM</b> and also as a <b>Marker</b> at the Computer Science Department of the UofM. Aside from academia, Asif also served as a <b>Graduate Trainee </b> of <b><a href="https://vada.cs.umanitoba.ca/profiles/asif-neloy/" target="_blank">NSERC CREATE The Visual and Automated Disease Analytics (VADA)</a></b> program.
+Asif Ahmed Neloy is a <b>Business & Data Science</b> professional specializing in Machine Learning, passionate about uncovering insights from complex data. With a <b>Master of Science</b> degree in <b>Computer Science</b> from the <b>University of Manitoba</b>, Asif has extensive experience in machine learning tools, including data structures, clustering and classification, natural language processing, and unravelling business decisions. 
 <br/> 
 </p>
 
 <p align="justify">
-His primary field of research interest is <b>Statistical Analysis and Machine Learning</b>. Within ML, Asif is interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>Unsupervised Machine Learning</b> and <b>Bayesian Modeling</b>.
+Before attending UofM, Asif received his <b>Bachelor of Science Degree</b> in <b>Computer Science and Engineering</b> (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh (considered the best private University in Bangladesh). Asif is currently engaged in both industry and academia, serving as <b>Teaching Assistant</b> and <b>Marker </b>at the <b> Dept of Computer Science and Dept of Statistics at the</b>, University of Manitoba and <b>Data and Business Specialist</b> at the Forum Inc. Aside from serving at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Lab</a></b>, he was appointed as a <b>Graduate Trainee</b> at the NSERC Create The Visual and Automated Disease Analytics (<b><a href="https://vada.cs.umanitoba.ca/profiles/asif-neloy/" target="_blank">VADA</a></b>) Program. His master of science dissertation titled "<b><a href="http://hdl.handle.net/1993/36999" target="_blank">Disentangled conditional variational autoencoder for unsupervised anomaly detection</a></b>" was supervised by Dr. Maxime Turgeon and CÜNEYT AKÇORA. </b>.
+
+</p>
+
+<p align="justify">
+Asif's multidisciplinary research area encompasses a broad domain of <b>Supervised and Unsupervised Machine Learning</b>. He is particularly interested in problems related to <b>Probabilistic</b> and <b>Bayesian Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>Auto-Encoders</b>. Currently, Asif is working on modelling Auto-Encoders and algorithms related to <b>Variational and Gaussian modelling </b>. Part of his research focuses on Statistical interpretation and visualization of Unsupervised Machine Learning algorithms for dimension reduction and anomaly detection. Also, Asif is designing interactive python packages for Data Engineering, such as Data Cleaning, Data Visualization, Model Interpretation, Selecting Data Scalers, and Statistical Analysis. Some of his Python Packages can be found <b><a href="https://pypi.org/user/aaneloy/" target="_blank">here</a></b>.
 
 </p>
 
