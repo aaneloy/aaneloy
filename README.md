@@ -6,8 +6,8 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aaneloy/)
 <img src="https://komarev.com/ghpvc/?username=aaneloy" alt="aaneloy"/>
 
-<p style="text-align:justify;"> 
-Asif Ahmed Neloy is a <b>Business & Data Science</b> professional specializing in Machine Learning, passionate about uncovering insights from complex data. With a <b>Master of Science</b> degree in <b>Computer Science</b> from the <b>University of Manitoba</b>, Asif has extensive experience in machine learning tools, including data structures, clustering and classification, natural language processing, and unravelling business decisions. 
+<p align="justify"> 
+Asif Ahmed Neloy is a <b>Business & Data Science</b> professional specializing in <b>Machine Learning</b> and <b>Deep Learning</b>, passionate about uncovering insights from complex data. With a <b>Master of Science</b> degree in <b>Computer Science</b> from the <b>University of Manitoba</b>, Asif has extensive experience in machine learning tools, including data structures, clustering and classification, natural language processing, and unravelling business decisions. 
 <br/> 
 </p>
 
