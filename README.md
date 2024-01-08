@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=aaneloy" alt="aaneloy"/>
 
 <p align="justify">
-<a href ="https://aaneloy.netlify.app/" target="_blank">Asif Ahmed Neloy</a> is a <b>Lecturer</b> Dept of <b>Dept of Computing Studies and Informaton Systems</b>, at the <b>Douglas College</b>. Asif is an expert <b>Academian</b> and <b>Data Science</b> professional specializing in <b>Machine Learning</b> and <b>Deep Learning</b>, passionate about uncovering insights from complex data. With a <b>Master of Science</b> degree in <b>Computer Science</b> from the <b>University of Manitoba</b>, Asif has extensive experience in machine learning tools, including data structures, clustering and classification, natural language processing, and unravelling business decisions. 
+<a href ="https://aaneloy.netlify.app/" target="_blank">Asif Ahmed Neloy</a> is a <b>Lecturer</b> at the <b>Dept of Computing Studies and Informaton Systems</b>, <b>Douglas College</b>. Asif is an expert <b>Academian</b> and <b>Data Science</b> professional specializing in <b>Machine Learning</b> and <b>Deep Learning</b>, passionate about uncovering insights from complex data. With a <b>Master of Science</b> degree in <b>Computer Science</b> from the <b>University of Manitoba</b>, Asif has extensive experience in machine learning tools, including data structures, clustering and classification, natural language processing, and unravelling business decisions. 
 <br/> 
 </p>
 
