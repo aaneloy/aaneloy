@@ -7,17 +7,30 @@
 <img src="https://komarev.com/ghpvc/?username=aaneloy" alt="aaneloy"/>
 
 <p align="justify">
-<a href ="https://aaneloy.netlify.app/" target="_blank">Asif Ahmed Neloy</a> is a <b>Lecturer</b> at the <b>Dept of Computing Studies and Information Systems</b>, <b>Douglas College</b>. Asif is an expert <b>Academian</b> and <b>Data Science</b> professional specializing in <b>Machine Learning</b> and <b>Deep Learning</b>, passionate about uncovering insights from complex data. With a <b>Master of Science</b> degree in <b>Computer Science</b> from the <b>University of Manitoba</b>, Asif has extensive experience in machine learning tools, including data structures, clustering and classification, natural language processing, and unravelling business decisions. 
+I'm a <b>Teaching Professor</b> at the <b>Department of Computing Studies and Information Systems</b>, <b><a href="https://www.douglascollege.ca/">Douglas College</a></b> in New Westminster, British Columbia. Currently, I am teaching courses on Advanced Databases, System Analysis and Design, Data Analytics, and Fundamental Machine Learning. Aside from my teaching, I am actively pursuing theoretical and applied research related to Probabilistic and Bayesian Modeling, Anomaly Detection, Dimension Reduction, and interdisciplinary applications of Auto-Encoders. Previously, I taught undergraduate and graduate courses at <b>Vancouver Island University</b> and <b>University of Manitoba</b>.</p>                
+                
+<p align="justify">
+I obtained my Msc in <b>Computer Science</b> Degree from <b>University of Manitoba</b>, supervised by <a href="https://www.maxturgeon.ca/">Dr. Maxime Turgeon</a> and <a href="https://cakcora.github.io/">Dr. Cüneyt Akçora</a> where I focused on <b>Dimension Reduction</b> and <b>Anomaly Detection</b> using Unsupervised Machine Learning. Along with Unsupervised settings, I researched on various Data Analytics methods including Feature Extraction, Two-staged Modeling approach, Statistical Modeling under <a href="https://github.com/UMDimReduction">Dimension Reduction Lab</a> and NSERC CREATE fund on The Visual and Automated Disease Analytics <a href="https://vada.cs.umanitoba.ca/">(VADA)</a> graduate training program. Prior to that, I worked with <a href="http://ece.northsouth.edu/people/dr-shahnewaz-siddique/">Dr. Shahnewaz Siddique</a> and <a href="https://www.albany.edu/~HE895353/zunayeed.html">Zunayeed Bin Zahir</a> on interdisciplinary research topics including Robotics, Recommender Systems, Health Informatics and Computer Vision. </p>
+
 <br/> 
-</p>
 
 <p align="justify">
-Before attending UofM, Asif received his <b>Bachelor of Science Degree</b> in <b>Computer Science and Engineering</b> (BS CSE, specialization- Artificial Intelligence) from <b>North South University</b>, Dhaka, Bangladesh (considered the best private University in Bangladesh). Asif is currently engaged in both industry and academia, serving as <b>Teaching Assistant</b> and <b>Marker </b>at the <b> Dept of Computer Science and Dept of Statistics at the</b>, University of Manitoba and <b>Data and Business Specialist</b> at the Forum Inc. Aside from serving at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Lab</a></b>, he was appointed as a <b>Graduate Trainee</b> at the <b>NSERC Create The Visual and Automated Disease Analytics</b> (<b><a href="https://vada.cs.umanitoba.ca/profiles/asif-neloy/" target="_blank">VADA</a></b>) Program. His master of science dissertation titled "<b><a href="http://hdl.handle.net/1993/36999" target="_blank">Disentangled conditional variational autoencoder for unsupervised anomaly detection</a></b>" was supervised by <b><a href="https://www.maxturgeon.ca/" target="_blank">Dr. Maxime Turgeon</a></b> and <b><a href="https://cakcora.github.io/" target="_blank">Dr. CÜNEYT AKÇORA</a></b>.
-
-</p>
+ My research interests lie in the intersection of Supervised and Unsupervised Machine Learning, with a specific focus on Probabilistic and Bayesian Modeling, Anomaly Detection, and Dimension Reduction. I am currently exploring the intricacies of Auto-Encoders and their applications in Variational and Gaussian modeling. My work delves into the statistical interpretation and visualization of Unsupervised Machine Learning algorithms, emphasizing dimension reduction and anomaly detection. Additionally, I contribute to the field of Data Engineering by developing interactive Python packages for tasks such as Data Cleaning, Visualization, Model Interpretation, Data Scaler Selection, and Statistical Analysis. Explore some of my Python packages on <a href="https://pypi.org/user/aaneloy/">PyPI</a>. Also, representative papers are <span class="highlight">highlighted</span>.</p>
 
 <p align="justify">
-Asif's multidisciplinary research area encompasses a broad domain of <b>Supervised and Unsupervised Machine Learning</b>. He is particularly interested in problems related to <b>Probabilistic</b> and <b>Bayesian Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>Auto-Encoders</b>. Currently, Asif is working on modelling Auto-Encoders and algorithms related to <b>Variational and Gaussian modelling </b>. Part of his research focuses on Statistical interpretation and visualization of Unsupervised Machine Learning algorithms for dimension reduction and anomaly detection. Also, Asif is designing interactive python packages for Data Engineering, such as Data Cleaning, Data Visualization, Model Interpretation, Selecting Data Scalers, and Statistical Analysis. Some of his Python Packages can be found <b><a href="https://pypi.org/user/aaneloy/" target="_blank">here</a></b>.
+                <h2>Recent News</h2>
+                <ul>
+                  <li> [January 2024] Joined <b>Douglas College</b>, New Westminster Campus as a <b>Teaching Professor</b>.</li>
+                  <li> [August 2023] Started my new journey as a <b>Faculty</b> Member, at the Vancouver Island University.</li>
+                  <li> [May 2023] Promoted to Senior ML Engineer, Forum Inc</li>
+                  <li> [February 2023] Lastest Published Conference Paper - <a href="https://doi.org/10.1109/ICDMW58026.2022.00064">Feature Extraction and Prediction of Combined Text and Survey Data using Two-Staged Modeling</a></li>
+                  <li> [January 2023] My Msc dissertation, <a href="https://doi.org/10.1109/ICDMW58026.2022.00064">Dimension Reduction and Anomaly Detection using Unsupervised Machine</a> is now online</li>
+                  <li> [December 2022] Successfully defended my MSc thesis.</li>
+                  <li> [November 2022] Manuscript in Preparation - A Comprehensive Study of Auto-Encoders for Anomaly Detection: Efficiency and Trade-Offs</li>
+                  <li> [November 2022] Guest Lecture, Introduction to Python and Numpy, STAT-447: Statistical Machine Learning for Data Science, Department of Mathematics and Statistics, University of Saskatchewan</li>
+                  <li> [September 2022] Received Graduate Travel Award from University of Manitoba, NSERC CREATE VADA Program</li>
+        
+        </ul>
 
 </p>
 
