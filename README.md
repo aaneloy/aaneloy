@@ -29,9 +29,7 @@ I obtained my Msc in <b>Computer Science</b> Degree from <b>University of Manito
                   <li> [November 2022] Manuscript in Preparation - A Comprehensive Study of Auto-Encoders for Anomaly Detection: Efficiency and Trade-Offs</li>
                   <li> [November 2022] Guest Lecture, Introduction to Python and Numpy, STAT-447: Statistical Machine Learning for Data Science, Department of Mathematics and Statistics, University of Saskatchewan</li>
                   <li> [September 2022] Received Graduate Travel Award from University of Manitoba, NSERC CREATE VADA Program</li>
-        
-        </ul>
-
+      
 </p>
 
 ## Stuff I work with
