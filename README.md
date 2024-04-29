@@ -20,7 +20,7 @@ I obtained my MSc in <b>Computer Science</b> Degree from <b>University of Manito
 <p align="justify">
                 <h2>Recent News</h2>
                 <ul>
-                  <li> [January 2024] Joined <b>Douglas College</b>, New Westminster Campus as a <b>Teaching Professor</b>.</li>
+                  <li> [December 2023] Joined <b>Douglas College</b>, New Westminster Campus as a <b>Teaching Professor</b>.</li>
                   <li> [August 2023] Started my new journey as a <b>Faculty</b> Member, at the Vancouver Island University.</li>
                   <li> [May 2023] Promoted to Senior ML Engineer, Forum Inc</li>
                   <li> [February 2023] Lastest Published Conference Paper - <a href="https://doi.org/10.1109/ICDMW58026.2022.00064">Feature Extraction and Prediction of Combined Text and Survey Data using Two-Staged Modeling</a></li>
