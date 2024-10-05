@@ -63,7 +63,7 @@ I obtained my MSc in <b>Computer Science</b> Degree from <b>University of Manito
 
 
 ## External Websites
-* [Personal Website](https://bit.ly/3IaObRe)
+* [Personal Website](https://aaneloy.github.io/)
 * [ResearchGate](http://bit.ly/2qrgpVc)
 * [Google Scholar](http://bit.ly/2Uab0wq)
 * [LinkedIn](https://bit.ly/33355ll)
