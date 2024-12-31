@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=aaneloy" alt="aaneloy"/>
 
 <p align="justify">
-Asif Ahmed Neloy is a <b>Faculty Member</b> at the <b>Department of Computing Studies and Information Systems (CSIS)</b> at <b><a href="https://www.douglascollege.ca/programs-courses/explore-programs-courses/faculties/commerce-and-business-administration/computing-studies-and-information-systems/faculty">Douglas College</a></b> in New Westminster, British Columbia. He also holds an adjunct <b>Faculty</b> position at the <b><a href="https://mfre.landfood.ubc.ca/faculty">University of British Columbia (UBC)</a></b>, Faculty of Land and Food Systems, as well as in the <b>Department of Computing and Academic Studies</b> at the <b>British Columbia Institute of Technology (BCIT)</b>. Currently, he is teaching courses on Advanced Databases, System Analysis and Design, Data Analytics, and Fundamental Machine Learning. Aside from teaching, he is actively pursuing theoretical and applied research related to Probabilistic and Bayesian Modeling, Anomaly Detection, Dimension Reduction, and interdisciplinary applications of Auto-Encoders. Previously, he taught undergraduate and graduate courses at <b>Vancouver Island University</b>, <b>University of Manitoba</b>, and <b>North South University</b>.</p>   
+Asif Ahmed Neloy is a <b>Faculty Member</b> at the <b>Department of Computing Studies and Information Systems (CSIS)</b> at <b><a href="https://www.douglascollege.ca/programs-courses/explore-programs-courses/faculties/commerce-and-business-administration/computing-studies-and-information-systems/faculty">Douglas College</a></b> in New Westminster, British Columbia. He also holds an adjunct <b>Faculty</b> position at the <b><a href="https://mfre.landfood.ubc.ca/faculty">University of British Columbia (UBC)</a></b>, Faculty of Land and Food Systems. Currently, he is teaching courses on Advanced Databases, System Analysis and Design, Data Analytics, and Fundamental Machine Learning. Aside from teaching, he is actively pursuing theoretical and applied research related to Probabilistic and Bayesian Modeling, Anomaly Detection, Dimension Reduction, and interdisciplinary applications of Auto-Encoders. Previously, he taught undergraduate and graduate courses at <b>British Columbia Institute of Technology (BCIT)</b>, <b>Vancouver Island University</b>, <b>University of Manitoba</b>, and <b>North South University</b>.</p>
 
                
 <p align="justify">
@@ -66,9 +66,8 @@ His research interests lie in the intersection of Supervised and Unsupervised Ma
 
 ## External Websites
 * [Personal Website](https://aaneloy.github.io/)
-* [ResearchGate](http://bit.ly/2qrgpVc)
 * [Google Scholar](http://bit.ly/2Uab0wq)
-* [LinkedIn](https://bit.ly/33355ll)
+* [LinkedIn](https://www.linkedin.com/in/aaneloy/)
 
 ## Python Packages
 * [Data Scaler Selector](https://github.com/aaneloy/scaler_selector)
