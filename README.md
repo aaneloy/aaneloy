@@ -1,34 +1,31 @@
 <a target="_blank" href="https://aaneloy.netlify.app"></a>
 
-# Asif Neloy
+# Asif Ahmed Neloy
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:neloya@douglascollege.ca)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aaneloy/)
 <img src="https://komarev.com/ghpvc/?username=aaneloy" alt="aaneloy"/>
 
 <p align="justify">
-Asif Ahmed Neloy is a <b>Faculty Member</b> at the <b>Department of Computing Studies and Information Systems (CSIS)</b> at <b><a href="https://www.douglascollege.ca/programs-courses/explore-programs-courses/faculties/commerce-and-business-administration/computing-studies-and-information-systems/faculty">Douglas College</a></b> in New Westminster, British Columbia. He also holds an adjunct <b>Faculty</b> position at the <b><a href="https://mfre.landfood.ubc.ca/faculty">University of British Columbia (UBC)</a></b>, Faculty of Land and Food Systems. Currently, he is teaching courses on Advanced Databases, System Analysis and Design, Data Analytics, and Fundamental Machine Learning. Aside from teaching, he is actively pursuing theoretical and applied research related to Probabilistic and Bayesian Modeling, Anomaly Detection, Dimension Reduction, and interdisciplinary applications of Auto-Encoders. Previously, he taught undergraduate and graduate courses at <b>British Columbia Institute of Technology (BCIT)</b>, <b>Vancouver Island University</b>, <b>University of Manitoba</b>, and <b>North South University</b>.</p>
+I am an Adjunct Faculty member in the Faculty of Land and Food Systems at the <b><a href="https://mfre.landfood.ubc.ca/faculty">University of British Columbia (UBC)</a></b>. I teach programming, algorithms, networking, computer vision, databases, machine learning, and analytics. Outside of research and teaching, my professional track includes senior data science appointments in industry settings.</p>
 
-               
-<p align="justify">
-He obtained his MSc in <b>Computer Science</b> from <b>University of Manitoba</b>, supervised by <a href="https://www.maxturgeon.ca/">Dr. Maxime Turgeon</a> and <a href="https://cakcora.github.io/">Dr. Cüneyt Akçora</a>, focusing on <b>Dimension Reduction</b> and <b>Anomaly Detection</b> using Unsupervised Machine Learning. Along with Unsupervised settings, he has researched various Data Analytics methods, including Feature Extraction, Two-staged Modeling approaches, and Statistical Modeling under <a href="https://github.com/UMDimReduction">Dimension Reduction Lab</a> and NSERC CREATE fund on The Visual and Automated Disease Analytics <a href="https://vada.cs.umanitoba.ca/">(VADA)</a> Graduate Training program. Prior to that, he worked with <a href="http://ece.northsouth.edu/people/dr-shahnewaz-siddique/">Dr. Shahnewaz Siddique</a> on interdisciplinary research topics, including Robotics, Recommender Systems, Health Informatics, and Computer Vision.</p>
+<p align="justify"> My research focuses on anomaly detection, representation learning, and probabilistic and Bayesian modeling. I have also worked extensively in robotics, recommender systems, health informatics, and computer vision, including earlier collaborations with <a href="http://ece.northsouth.edu/people/dr-shahnewaz-siddique/">Dr. Shahnewaz Siddique</a>. </p>
+
+<p align="justify"> In a previous life, I was an Information Analyst and Data Scientist with <b>Advanced Chemical Industries (ACI) PLC</b>, where I led a forecasting accuracy program for supply planning and built a standardized KPI layer with an executive reporting suite. Later, at <b>Daris Properties Ltd.</b> I worked as a Data Analyst with a machine learning concentration, developing portfolio and leasing dashboards and building ML prototypes to support portfolio decision making. </p>
 
 <br/>
 
 <p align="justify">
-His research interests lie in the intersection of Supervised and Unsupervised Machine Learning, with a specific focus on Probabilistic and Bayesian Modeling, Anomaly Detection, and Dimension Reduction. Currently, he is exploring the intricacies of Auto-Encoders and their applications in Variational and Gaussian modeling. His work delves into the statistical interpretation and visualization of Unsupervised Machine Learning algorithms, emphasizing dimension reduction and anomaly detection. Additionally, he contributes to Data Engineering by developing interactive Python packages for tasks such as Data Cleaning, Visualization, Model Interpretation, Data Scaler Selection, and Statistical Analysis. Explore some of his Python packages on <a href="https://pypi.org/user/aaneloy/">PyPI.</a></p>
-
-<br/> 
-
-<p align="justify">
                 <h2>Recent News</h2>
                 <ul>
-                  <li> [November 2024] My paper titled "<b>Disentangled Conditional Variational Autoencoder for Unsupervised Anomaly Detection</b>" has been accepted at the IEEE Big Data Conference (IEEE BigData 2024) in Washington, D.C., taking place from December 15-18, 2024.</li>
-                  <li> [July 2024] My paper titled "A Comprehensive Study of Auto-Encoders for Anomaly Detection: Efficiency and Trade-offs," published in the Machine Learning with Applications Journal, DOI: https://doi.org/10.1016/j.mlwa.2024.100572</li>
+                  <li> [August 2025] Led a week long MFRE bootcamp and workshop series on Python and R covering data access, visualization, and coding for economic analysis.</li> 
+                  <li> [April 2025] Supervised graduate students in the UBC MFRE <a href="https://mfre.landfood.ubc.ca/summer-program/">Summer Program</a>.</li>
+                  <li> [November 2024] My paper titled "<b>Disentangled Conditional Variational Autoencoder for Unsupervised Anomaly Detection</b>" was accepted at the IEEE Big Data Conference (IEEE BigData 2024), Washington, D.C., December 15 to 18, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10825554">IEEE Xplore</a></li>
+                  <li> [July 2024] My paper titled "<b>A Comprehensive Study of Auto-Encoders for Anomaly Detection: Efficiency and Trade-offs</b>" was published in <i>Machine Learning with Applications</i>. <a href="https://www.sciencedirect.com/science/article/pii/S2666827024000483">ScienceDirect</a></li>
                   <li> [June 2024] Received Research Dissemination Present and Research Dissemination Publish Grant from Douglas College</li>
-                  <li> [December 2023] Joined <b>Douglas College</b>, New Westminster Campus as a <b>Teaching Professor</b>.</li>
+                  <li> [December 2023] Joined <b>Douglas College</b>, New Westminster Campus as a <b>Full-time Regular Faculty Member.</b>.</li>
                   <li> [August 2023] Started my new journey as a <b>Faculty</b> Member, at the Vancouver Island University.</li>
-                  <li> [May 2023] Promoted to Senior ML Engineer, Forum Inc</li>
+                  <li> [May 2023] Promoted to Machine Learning Engineer, Daris Properties Ltd.</li>
                   <li> [February 2023] Lastest Published Conference Paper - <a href="https://doi.org/10.1109/ICDMW58026.2022.00064">Feature Extraction and Prediction of Combined Text and Survey Data using Two-Staged Modeling</a></li>
                   <li> [January 2023] My Msc dissertation, <a href="https://doi.org/10.1109/ICDMW58026.2022.00064">Dimension Reduction and Anomaly Detection using Unsupervised Machine</a> is now online</li>
                   <li> [November 2022] Guest Lecture, Introduction to Python and Numpy, STAT-447: Statistical Machine Learning for Data Science, Department of Mathematics and Statistics, University of Saskatchewan</li>
